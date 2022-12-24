@@ -8,6 +8,9 @@ namespace SimpleLab8
 {
     public class Task_1
     {
+        public static void Main()
+        {
 
+        }
     }
 }
