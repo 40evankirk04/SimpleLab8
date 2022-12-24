@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SimpleLab8
 {
-    internal class Class1
+    public class Task_1
     {
+
     }
 }
