@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Progaram
 {
-    class Program
+    class Anagrams
     {
         public static void Main()
         {
