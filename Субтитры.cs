@@ -5,7 +5,7 @@ using System.Timers;
 
 namespace Subtitles
 {
-    class Program
+    class Subtitles
     {
         const int ScreenWidth = 110;
         const int ScreenHeight = 30;
